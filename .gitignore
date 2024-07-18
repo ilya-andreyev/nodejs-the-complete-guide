@@ -1,4 +1,9 @@
 node_modules
-data/invoices
-uploads/images
+
+data/invoices/*
+!data/invoices/.gitkeep
+
+uploads/images/*
+!uploads/images/.gitkeep
+
 .env
